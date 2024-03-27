@@ -473,17 +473,9 @@ span{
 
 @media only screen and (max-width:600px) {
    
-    *{
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
-    html,body{
-        width: 100%;
-        height: 100%;
-    }
+    
     .page1{
-        height: 110vh;
+        height: 80vh;
         width: 100vw;
         background-color: #C4BCB3;
         position: relative;
